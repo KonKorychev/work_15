@@ -92,8 +92,6 @@ then drops off the passenger. Once the passenger is dropped off, the episode end
 - other letters (R, G, Y and B): locations for passengers and destinations
 
 **State space is represented by:** taxi_row, taxi_col, passenger_location, destination
-```python
-```
 
 ## Реализация алгоритма
 ```python
